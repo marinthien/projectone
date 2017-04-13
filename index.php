@@ -6,6 +6,6 @@
 	echo "test first one";
 
 
-	echo "let modify this file ";
+	echo "let modify this file. i have change the window one ";
 
 ?>
